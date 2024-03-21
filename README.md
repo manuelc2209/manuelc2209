@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-###### 🔭 I’m currently working on [React-UI](https://react-ui.manuelcorreia.org/) on my spare time, feel free to contact me to add new ideas
+###### 🔭 I'm Manuel Correia, a Frontend Dev from Portugal
+
+<br>
+
+### Also experienced in:
+###### MicroFrontends
+###### Design Systems
+###### Webpack & Bundling
+
+<br>
 
 ### Skills
 
